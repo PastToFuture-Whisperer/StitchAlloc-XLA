@@ -234,7 +234,7 @@ To demonstrate the ultimate architectural rigidity and pointer convergence stabi
 
 While the system is verified to process and settle 100k requests flawlessly at the backend level, the graphical rendering limits of standard cloud container environments establish a separate physical boundary. As a definitive visual milestone of this framework's deterministic behavior, the official **40,000-cycle (40k) runtime waveform** is embedded below:
 
-![40,000-Cycle High-Stress Timeline](./trace_timeline_40k_execution.png)
+![40,000-Cycle High-Stress Timeline](./trace_timeline_40k_execution.jpeg)
 *(Note: The uniform, macro-level mosaic bands illustrated above represent the successful real-time containment and deterministic alignment of nanosecond-level spatiotemporal jitter at its absolute infrastructure limit.)*
 
 ### 11.5 Extended Telemetry Dataset Downloads
