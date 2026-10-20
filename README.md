@@ -1,5 +1,8 @@
 # StitchAlloc-XLA: Deterministic Spatiotemporal Topology Manager for Next-Gen Tensor Compilers
 
+Notice: Repository Migration in Progress
+This repository is scheduled to be relocated to a new research archive under @PastToFuture-Whisperer. The codebase and documentation will be updated to reflect its initial research status.
+
 ## 1. Executive Summary
 
 In high-throughput deep learning compilation pipelines (e.g., Google XLA, JAX backends), dynamic host-side memory allocation introduces non-deterministic heap fragmentation and intolerable garbage collection (GC) overhead. These micro-latency jitters, compounded by complex layered software stacks, lead to unstable, "sawtooth" telemetry profiles within multi-tenant accelerator infrastructures.
